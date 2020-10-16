@@ -1,17 +1,17 @@
-# Kyubi Framework `If you can imagine it, you can do it.`
+# Kyubi Framework
+###### `If you can imagine it, you can do it.`
 
-__Kyubi__  ha sido diseñado construir aplicaciones de forma violenta, se fundamenta en __Desarrollo Guiado por la Configuración__ siguiendo los principios de diseño __DRY__, __KISS__ & __SOLID__. __Kyubi__ es para todos desde los desarrolladores principiantes o aquellos muy experimentados, es para los administradores de base de datos,
-tambien para los amantes de la consola, es para el que quiere iniciar en la programación y no saben donde o como iniciar.
+__Kyubi__  es una herramienta que te permite desarrollar aplicaciones de forma violenta, fundamentado en el __Desarrollo Guiado por la Configuración__ y los principios de diseño __DRY__, __KISS__ & __SOLID__. __Kyubi__ es para progamadores principiantes o experimentados, para amantes de las base de datos,
+para fanáticos de la consola, para emprendedores que deseen construir un __MVP__ tobusto y escalable sin invertir recursos innecesarios.
 
->If you can dream it, you can do it. *- Walt Disney *
+`El mundo desea conocer tú producto, no tenerlo a tiempo afectará la viabilidad y el éxito.`
+
 
 ### Aclaratorias
--	No es un lenguaje de programación, se encuentra escrita en [PHP 7.x](https://www.php.net/)
--	No hace aplicaciones, te agiliza el proceso de construcción sin complicarte ni limitarte.
--	No solo genera código, evita el código innecesario y repetitivo.
--	__Kyubi__ es fácil, es simple y muy rápido.
-
-__Kyubi__ es un constructor de __MVP_, con el cual tendrás un producto funcional y escalable, sin invertir tiempo y/o recursos innecesarios. *El mundo desea conocer tú producto, no tenerlo a tiempo afectará la viabilidad y el éxito.*
+- No es un lenguaje de programación, su motor extiende de Yii Framework y escrito en PHP.
+- No hace aplicaciones, agiliza el proceso de construcción sin limitarte como hacerlo.
+- No es un generador de código, crea una estructura de tus definiciones e interpreta implicitamente todo.
+- Con __Kyubi__ hacer desarrollar será rápido y muy sencillo.
 
 # Tabla de contenido
 - \[ ] [Comenzando](01-getting-started.md)
