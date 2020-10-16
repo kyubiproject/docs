@@ -8,7 +8,7 @@ para fanáticos de la consola, para emprendedores que deseen construir un __MVP_
 
 
 ### Aclaratorias
-- No es un lenguaje de programación, su motor extiende de Yii Framework y escrito en PHP.
+- No es un lenguaje de programación, su motor extiende de Yii Framework basado en PHP.
 - No hace aplicaciones, agiliza el proceso de construcción sin limitarte como hacerlo.
 - No es un generador de código, crea una estructura de tus definiciones e interpreta implicitamente todo.
 - Con __Kyubi__ hacer desarrollar será rápido y muy sencillo.
